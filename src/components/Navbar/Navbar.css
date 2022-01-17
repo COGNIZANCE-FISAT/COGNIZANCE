@@ -5,6 +5,7 @@
     rgba(79, 22, 90, 1) 3%,
     rgba(21, 12, 69, 1) 100%
   );
+  z-index: 1;
   position: absolute;
   height: 70px;
   width: 100%;
