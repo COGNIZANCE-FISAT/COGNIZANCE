@@ -11,7 +11,6 @@ const Home =() =>{
         <>
         <div className="homepage-image">
         <br/>
-        
     </div>
     <center>
     <VideoPlayer src={videoSrc} poster ={poster} width="980" height="600" autoplay/>

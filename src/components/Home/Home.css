@@ -22,8 +22,7 @@
 }
 @media screen and (max-width: 960px) {
   .video-js {
-    z-index: 1;
-    display: block;
+    display: none;
     width: 600px;
     height: 500px;
     margin-top: 5px;
