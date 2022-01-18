@@ -55,6 +55,22 @@
 .menu-icon {
   display: none;
 }
+@media screen and (max-width: 800px) {
+  .navbar-logo {
+    font-size: 21px;
+    margin: 0;
+    transform: translate(5%, 5%);
+  }
+  .menu-icon {
+    display: block;
+    color: azure;
+    position: relative;
+    top: 0.1vh;
+    right: 0;
+    transform: translate(50%, 20%);
+    cursor: pointer;
+  }
+}
 @media screen and (max-width: 960px) {
   .NavbarItems {
     position: relative;
